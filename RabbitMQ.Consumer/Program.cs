@@ -1,5 +1,6 @@
 ﻿using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
+using RabbitMQ.Consumer;
 
 static class Program
 {
@@ -11,15 +12,8 @@ static class Program
 
         using var connection = factory.CreateConnection();
         using var channel = connection.CreateModel();
-        channel.QueueDeclare("demo-queue", durable: true, exclusive: false, autoDelete: false, arguments: null);
-        var consumer = new EventingBasicConsumer(channel);
-        consumer.Received += (model, ea) =>
-        {
-            var body = ea.Body.ToArray();
-            var message = System.Text.Encoding.UTF8.GetString(body);
-            Console.WriteLine($"Received message: {message}");
-        };
-        channel.BasicConsume(queue: "demo-queue", autoAck: true, consumer: consumer);
+       QueueConsumer.Consumer(channel);
+        Console.WriteLine("Press [enter] to exit.");
         Console.ReadLine();
     }
 }

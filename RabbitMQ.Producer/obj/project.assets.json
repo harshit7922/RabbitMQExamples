@@ -123,11 +123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
+      "projectUniqueName": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
       "projectName": "RabbitMQ.Producer",
-      "projectPath": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
+      "projectPath": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
       "packagesPath": "C:\\Users\\HARSHIT\\.nuget\\packages\\",
-      "outputPath": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQ.Producer\\obj\\",
+      "outputPath": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Producer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
