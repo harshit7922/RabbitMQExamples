@@ -14,7 +14,8 @@ static class Program
         using var channel = connection.CreateModel();
        //QueueConsumer.Consumer(channel);
         //DirectExchangeConsumer.Consumer(channel);
-        TopicExchangeConsumer.Consumer(channel);
+        //TopicExchangeConsumer.Consumer(channel);
+        HeaderExchangeCnsumer.Consumer(channel);
         Console.WriteLine("Press [enter] to exit.");
         Console.ReadLine();
     }

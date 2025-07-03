@@ -13,6 +13,7 @@ static class Program
         using var channel = connection.CreateModel();
         //QueueProducer.Publish(channel);
         //Direct_ExchangePublisher.Publish(channel);
-        TopicExchangePublisher.Publish(channel);
+        //TopicExchangePublisher.Publish(channel);
+        HeaderExchangePublisher.Publish(channel);
     }
 }
