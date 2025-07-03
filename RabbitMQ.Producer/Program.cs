@@ -14,6 +14,7 @@ static class Program
         //QueueProducer.Publish(channel);
         //Direct_ExchangePublisher.Publish(channel);
         //TopicExchangePublisher.Publish(channel);
-        HeaderExchangePublisher.Publish(channel);
+        //HeaderExchangePublisher.Publish(channel);
+        FanoutExchangeProducer.Publish(channel);
     }
 }

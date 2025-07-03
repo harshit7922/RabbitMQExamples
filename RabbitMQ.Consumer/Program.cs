@@ -15,7 +15,8 @@ static class Program
        //QueueConsumer.Consumer(channel);
         //DirectExchangeConsumer.Consumer(channel);
         //TopicExchangeConsumer.Consumer(channel);
-        HeaderExchangeCnsumer.Consumer(channel);
+        //HeaderExchangeCnsumer.Consumer(channel);
+        FanoutExchangeConsumer.Consumer(channel);
         Console.WriteLine("Press [enter] to exit.");
         Console.ReadLine();
     }
