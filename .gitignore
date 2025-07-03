@@ -12,3 +12,17 @@
 /RabbitMQ.Producer/obj
 /RabbitMQ.Producer/obj
 /RabbitMQ.Consumer/obj/Debug
+/RabbitMQ.Producer/.vs
+/RabbitMQ.Consumer/.vs
+/RabbitMQ.Producer/obj
+/RabbitMQ.Producer/obj/Debug/net8.0
+/RabbitMQ.Producer/obj/Debug
+/RabbitMQ.Producer/obj
+/RabbitMQ.Producer/obj/Debug/net8.0/ref
+/RabbitMQ.Consumer/.vs/RabbitMQ.Consumer
+/RabbitMQ.Consumer/.vs/RabbitMQ.Consumer
+/RabbitMQ.Consumer/.vs/RabbitMQ.Consumer/v17
+/RabbitMQ.Consumer/.vs/RabbitMQ.Consumer/DesignTimeBuild
+/RabbitMQ.Consumer/bin
+/RabbitMQ.Consumer/bin/Debug
+/RabbitMQ.Consumer/bin/Debug/net8.0

@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQ.Consumer\\",
+  "WorkspaceRootPath": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Consumer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD62A93F-59A3-43F8-B562-75FE25F197E7}|RabbitMQ.Consumer.csproj|e:\\learning\\dot net microservice\\rabbitmq\\rabbitmq.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD62A93F-59A3-43F8-B562-75FE25F197E7}|RabbitMQ.Consumer.csproj|e:\\learning\\dot net microservice\\rabbitmq\\rabbitmqexamples\\rabbitmq.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD62A93F-59A3-43F8-B562-75FE25F197E7}|RabbitMQ.Consumer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62A93F-59A3-43F8-B562-75FE25F197E7}|RabbitMQ.Consumer.csproj|e:\\learning\\dot net microservice\\rabbitmq\\rabbitmqexamples\\rabbitmq.consumer\\directexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62A93F-59A3-43F8-B562-75FE25F197E7}|RabbitMQ.Consumer.csproj|solutionrelative:directexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62A93F-59A3-43F8-B562-75FE25F197E7}|RabbitMQ.Consumer.csproj|e:\\learning\\dot net microservice\\rabbitmq\\rabbitmqexamples\\rabbitmq.consumer\\queueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62A93F-59A3-43F8-B562-75FE25F197E7}|RabbitMQ.Consumer.csproj|solutionrelative:queueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectExchangeConsumer.cs",
+              "DocumentMoniker": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Consumer\\DirectExchangeConsumer.cs",
+              "RelativeDocumentMoniker": "DirectExchangeConsumer.cs",
+              "ToolTip": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Consumer\\DirectExchangeConsumer.cs",
+              "RelativeToolTip": "DirectExchangeConsumer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:10:20.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueConsumer.cs",
+              "DocumentMoniker": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Consumer\\QueueConsumer.cs",
+              "RelativeDocumentMoniker": "QueueConsumer.cs",
+              "ToolTip": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Consumer\\QueueConsumer.cs",
+              "RelativeToolTip": "QueueConsumer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:40:15.453Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQ.Consumer\\Program.cs",
+              "DocumentMoniker": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Consumer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQ.Consumer\\Program.cs",
+              "ToolTip": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Consumer\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T18:16:00.221Z",
               "EditorCaption": ""
