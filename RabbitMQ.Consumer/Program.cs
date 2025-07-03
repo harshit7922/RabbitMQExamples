@@ -13,7 +13,8 @@ static class Program
         using var connection = factory.CreateConnection();
         using var channel = connection.CreateModel();
        //QueueConsumer.Consumer(channel);
-        DirectExchangeConsumer.Consumer(channel);
+        //DirectExchangeConsumer.Consumer(channel);
+        TopicExchangeConsumer.Consumer(channel);
         Console.WriteLine("Press [enter] to exit.");
         Console.ReadLine();
     }

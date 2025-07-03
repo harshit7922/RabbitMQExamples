@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Producer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DEBFC48-17E1-49FD-8B32-3DC35C551CFE}|RabbitMQ.Producer.csproj|e:\\learning\\dot net microservice\\rabbitmq\\rabbitmqexamples\\rabbitmq.producer\\direct exchangepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEBFC48-17E1-49FD-8B32-3DC35C551CFE}|RabbitMQ.Producer.csproj|solutionrelative:direct exchangepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DEBFC48-17E1-49FD-8B32-3DC35C551CFE}|RabbitMQ.Producer.csproj|e:\\learning\\dot net microservice\\rabbitmq\\rabbitmqexamples\\rabbitmq.producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DEBFC48-17E1-49FD-8B32-3DC35C551CFE}|RabbitMQ.Producer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEBFC48-17E1-49FD-8B32-3DC35C551CFE}|RabbitMQ.Producer.csproj|e:\\learning\\dot net microservice\\rabbitmq\\rabbitmqexamples\\rabbitmq.producer\\topicexchangepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEBFC48-17E1-49FD-8B32-3DC35C551CFE}|RabbitMQ.Producer.csproj|solutionrelative:topicexchangepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEBFC48-17E1-49FD-8B32-3DC35C551CFE}|RabbitMQ.Producer.csproj|e:\\learning\\dot net microservice\\rabbitmq\\rabbitmqexamples\\rabbitmq.producer\\direct exchangepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEBFC48-17E1-49FD-8B32-3DC35C551CFE}|RabbitMQ.Producer.csproj|solutionrelative:direct exchangepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEBFC48-17E1-49FD-8B32-3DC35C551CFE}|RabbitMQ.Producer.csproj|e:\\learning\\dot net microservice\\rabbitmq\\rabbitmqexamples\\rabbitmq.producer\\queueproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "TopicExchangePublisher.cs",
+              "DocumentMoniker": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Producer\\TopicExchangePublisher.cs",
+              "RelativeDocumentMoniker": "TopicExchangePublisher.cs",
+              "ToolTip": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Producer\\TopicExchangePublisher.cs",
+              "RelativeToolTip": "TopicExchangePublisher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:30:31.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Direct ExchangePublisher.cs",
               "DocumentMoniker": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Producer\\Direct ExchangePublisher.cs",
               "RelativeDocumentMoniker": "Direct ExchangePublisher.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "QueueProducer.cs",
               "DocumentMoniker": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Producer\\QueueProducer.cs",
               "RelativeDocumentMoniker": "QueueProducer.cs",
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Producer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Learning\\Dot Net MicroService\\RabbitMQ\\RabbitMQExamples\\RabbitMQ.Producer\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T18:03:17.255Z",
               "EditorCaption": ""

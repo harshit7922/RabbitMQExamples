@@ -12,6 +12,7 @@ static class Program
         using var connection = factory.CreateConnection();
         using var channel = connection.CreateModel();
         //QueueProducer.Publish(channel);
-        Direct_ExchangePublisher.Publish(channel);
+        //Direct_ExchangePublisher.Publish(channel);
+        TopicExchangePublisher.Publish(channel);
     }
 }
