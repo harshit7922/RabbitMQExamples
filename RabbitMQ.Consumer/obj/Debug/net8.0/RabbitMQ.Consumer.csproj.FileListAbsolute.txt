@@ -1,0 +1,17 @@
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.exe
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.deps.json
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.runtimeconfig.json
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.dll
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.pdb
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.csproj.AssemblyReference.cache
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.AssemblyInfoInputs.cache
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.AssemblyInfo.cs
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.0955E78D.Up2Date
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.dll
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\refint\RabbitMQ.Consumer.dll
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.pdb
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.genruntimeconfig.cache
+E:\Learning\Dot Net MicroService\RabbitMQ\RabbitMQ.Consumer\obj\Debug\net8.0\ref\RabbitMQ.Consumer.dll
